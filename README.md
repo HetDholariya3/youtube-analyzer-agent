@@ -8,8 +8,3 @@ An AI-powered YouTube content analyzer built using Agno, Groq, and Streamlit.
 - Generate summaries
 - Extract key insights
 - Streamlit UI
-
-## Installation
-
-```bash
-pip install -r requirements.txt
